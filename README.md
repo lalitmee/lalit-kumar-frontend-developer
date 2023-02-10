@@ -15,4 +15,4 @@ npm run dev
 
 ---
 
-Thank You :)
+Thank You 😄
